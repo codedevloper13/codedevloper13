@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/devloperabhi"><img src="https://api.daily.dev/devcards/e0dc1ea647e5472c82f8bc14f332f494.png?r=cak" width="400" alt="devloper abhi's Dev Card"/></a>
+<a href="https://app.daily.dev/codedevloper13"><img src="https://api.daily.dev/devcards/e0dc1ea647e5472c82f8bc14f332f494.png?r=pdl" width="400" alt="codedevloper13's Dev Card"/></a>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/abhijit.biswas.942) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/codedevloper13) 
 
